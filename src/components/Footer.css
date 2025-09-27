@@ -1,0 +1,51 @@
+.foot ul {
+    list-style: none;
+    text-align: left;
+
+}
+.foot ul a{
+    color: black;
+    text-decoration: none;
+}
+.foot {
+    background-color: grey;
+}
+
+.f5-header {
+    text-align: left;
+}
+
+.footer-column3 ul {
+    display: flex;
+    gap: 10px;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.footer-column4 ul {
+    display: flex;         
+    gap: 50px;
+    justify-content: center;
+}
+
+.row {
+    justify-content: center;
+}
+
+.footer-column {
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+}
+
+.footer-column3 {
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+}
+
+
+
+
+

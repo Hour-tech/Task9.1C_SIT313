@@ -1,0 +1,11 @@
+.get-user-email {
+    text-align: center;
+    padding: 2%;
+    margin: 10px;
+    background-color: lightgray; 
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.whole-form label{
+    font-size: 20px;
+}
