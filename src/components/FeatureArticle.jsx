@@ -1,6 +1,5 @@
 import React from "react";
 import Card from './Card';
-import { faker } from '@faker-js/faker';
 import staffList from './staffList';
 import './Card.css';
 
